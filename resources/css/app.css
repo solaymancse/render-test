@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.join .join-item.btn-active {
+    background-color: #06090b;
+}
+
+.join .join-item.btn-disabled {
+    color: white;
+    background-color: #535a63;
+}
